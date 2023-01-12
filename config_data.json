@@ -1,0 +1,420 @@
+{
+  "info": {
+    "salon": {
+      "store": "Rubi Nails And Spa",
+      "slug": "rubi-nails-and-spa",
+      "phone": "(540) 615-5507",
+      "email": "rubiharrisonburg@gmail.com",
+      "address": "1925 Stone Spring, Rd STE 500, Harrisonburg, VA 22801",
+      "district": "Harrisonburg",
+      "state": "Virginia 22801",
+      "time_1": "[Mon - Sat] 9:30 AM - 7:30 PM",
+      "time_2": "[Sun] Closed"
+    },
+    "social": {
+      "facebook": "https://www.facebook.com/rubinailsandspa/",
+      "instagram": "https://www.instagram.com/rubinailsandspa/",
+      "google": "https://goo.gl/maps/1LB92278VgTQ5ySc7",
+      "booking": "",
+      "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12506.344178364832!2d-78.8670578!3d38.4048194!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x976b0ee28cd44352!2sRUBI%20Nails%20and%20Spa!5e0!3m2!1sen!2s!4v1673495002786!5m2!1sen!2s"
+    },
+    "color": {
+      "primary": "#1A1A1A",
+      "primary_light": "#727272",
+      "primary_hover": "#87DD2C",
+      "secondary": "#90C73E",
+      "secondary_hover": "#88BC3A",
+      "text_primary": "#FFFFFF",
+      "text_primary_hover": "#FFFFFF",
+      "text_secondary": "#FFFFFF",
+      "text_secondary_hover": "#FFFFFF",
+      "text_title": "#429D64",
+      "text_title_hover": "#90C73E"
+    },
+    "debug": "on",
+    "path_image": "images",
+    "domain": "https://rubinailsandspa.com/"
+  },
+  "gallery": [
+    {
+      "name": "gallery-01",
+      "url": "rubi-nails-and-spa-gallery-01.jpg",
+      "home": true
+    },
+    {
+      "name": "gallery-02",
+      "url": "rubi-nails-and-spa-gallery-02.jpg",
+      "home": false
+    },
+    {
+      "name": "gallery-03",
+      "url": "rubi-nails-and-spa-gallery-03.jpg",
+      "home": false
+    },
+    {
+      "name": "gallery-04",
+      "url": "rubi-nails-and-spa-gallery-04.jpg",
+      "home": false
+    },
+    {
+      "name": "gallery-05",
+      "url": "rubi-nails-and-spa-gallery-05.jpg",
+      "home": true
+    },
+    {
+      "name": "gallery-06",
+      "url": "rubi-nails-and-spa-gallery-06.jpg",
+      "home": false
+    },
+    {
+      "name": "gallery-07",
+      "url": "rubi-nails-and-spa-gallery-07.jpg",
+      "home": true
+    },
+    {
+      "name": "gallery-08",
+      "url": "rubi-nails-and-spa-gallery-08.jpg",
+      "home": true
+    },
+    {
+      "name": "gallery-09",
+      "url": "rubi-nails-and-spa-gallery-09.jpg",
+      "home": false
+    },
+    {
+      "name": "gallery-09",
+      "url": "rubi-nails-and-spa-gallery-10.jpg",
+      "home": false
+    },
+    {
+      "name": "gallery-09",
+      "url": "rubi-nails-and-spa-gallery-11.jpg",
+      "home": false
+    },
+    {
+      "name": "gallery-09",
+      "url": "rubi-nails-and-spa-gallery-12.jpg",
+      "home": false
+    },
+    {
+      "name": "gallery-09",
+      "url": "rubi-nails-and-spa-gallery-13.jpg",
+      "home": false
+    },
+    {
+      "name": "gallery-09",
+      "url": "rubi-nails-and-spa-gallery-14.jpg",
+      "home": false
+    }  
+
+  ],
+  "specialties": [
+    {
+      "name": "specialties-02",
+      "url": "rubi-nails-and-spa-gallery-08.jpg"
+    },
+    {
+      "name": "specialties-03",
+      "url": "rubi-nails-and-spa-gallery-07.jpg"
+    },
+    {
+      "name": "specialties-04",
+      "url": "rubi-nails-and-spa-gallery-06.jpg"
+    },
+    {
+      "name": "specialties-05",
+      "url": "rubi-nails-and-spa-gallery-05.jpg"
+    },
+    {
+      "name": "specialties-06",
+      "url": "rubi-nails-and-spa-gallery-04.jpg"
+    },
+    {
+      "name": "specialties-07",
+      "url": "rubi-nails-and-spa-gallery-03.jpg"
+    },
+    {
+      "name": "specialties-08",
+      "url": "rubi-nails-and-spa-gallery-02.jpg"
+    },
+    {
+      "name": "specialties-09",
+      "url": "rubi-nails-and-spa-gallery-01.jpg"
+    }
+  ],
+  "categories": [
+    {
+      "name": "Manicure",
+      "src": "rubi-nails-and-spa-service-01.jpg",
+      "home": true
+    },
+    {
+      "name": "Pedicure",
+      "src": "rubi-nails-and-spa-service-02.jpg",
+      "home": true
+    },
+    {
+      "name": "Poly Gel",
+      "src": "rubi-nails-and-spa-service-03.jpg",
+      "home": false
+    },
+    {
+      "name": "Dipping Powder",
+      "src": "rubi-nails-and-spa-service-04.jpg",
+      "home": false
+    },
+    {
+      "name": "Acrylic Nails",
+      "src": "rubi-nails-and-spa-service-05.jpg",
+      "home": false
+    },
+    {
+      "name": "Pink & White",
+      "src": "rubi-nails-and-spa-service-06.jpg",
+      "home": false
+    },
+    {
+      "name": "Add-Ons",
+      "src": "rubi-nails-and-spa-service-07.jpg",
+      "home": false
+    },
+    {
+      "name": "Waxing",
+      "src": "rubi-nails-and-spa-service-08.jpg",
+      "home": true
+    }
+  ],
+  "services": [
+    {
+      "category": "Manicure",
+      "name": "Express Manicure",
+      "url": "",
+      "price": 12,
+      "plus": false
+    },
+    {
+      "category": "Manicure",
+      "name": "Classic Manicure",
+      "url": "",
+      "price": 22,
+      "plus": false
+    },
+    {
+      "category": "Manicure",
+      "name": "RUBI Manicure",
+      "url": "",
+      "price": 35,
+      "plus": false
+    },
+    {
+      "category": "Pedicure",
+      "name": "Express Pedicure",
+      "url": "",
+      "price": 18,
+      "plus": false
+    },
+    {
+      "category": "Pedicure",
+      "name": "Organic Pedicure",
+      "url": "",
+      "price": 35,
+      "plus": false
+    },
+    {
+      "category": "Pedicure",
+      "name": "Sport Pedicure",
+      "url": "",
+      "price": 50,
+      "plus": false
+    },
+    {
+      "category": "Pedicure",
+      "name": "RUBI Pedicure",
+      "url": "",
+      "price": 65,
+      "plus": false
+    },
+    {
+      "category": "Poly Gel",
+      "name": "Overlay",
+      "url": "",
+      "price": 46,
+      "plus": true
+    },
+    {
+      "category": "Poly Gel",
+      "name": "With Nail Tips",
+      "url": "",
+      "price": 56,
+      "plus": true
+    },
+    {
+      "category": "Poly Gel",
+      "name": "Refill",
+      "url": "",
+      "price": 36,
+      "plus": true
+    },
+    {
+      "category": "Dipping Powder",
+      "name": "Overlay",
+      "url": "",
+      "price": 46,
+      "plus": true
+    },
+    {
+      "category": "Dipping Powder",
+      "name": "With Nail Tips",
+      "url": "",
+      "price": 60,
+      "plus": true
+    },
+    {
+      "category": "Dipping Powder",
+      "name": "New Set",
+      "url": "",
+      "price": 40,
+      "plus": true
+    },
+    {
+      "category": "Dipping Powder",
+      "name": "Refill",
+      "url": "",
+      "price": 30,
+      "plus": true
+    },
+    {
+      "category": "Pink & White",
+      "name": "New Set",
+      "url": "",
+      "price": 56,
+      "plus": true
+    },
+    {
+      "category": "Pink & White",
+      "name": "Refill Pink And White",
+      "url": "",
+      "price": 46,
+      "plus": true
+    },
+    {
+      "category": "Pink & White",
+      "name": "Refill Pink",
+      "url": "",
+      "price": 36,
+      "plus": true
+    },
+    {
+      "category": "Add-Ons",
+      "name": "Gel Polish",
+      "url": "",
+      "price": 15,
+      "plus": false
+    },
+    {
+      "category": "Add-Ons",
+      "name": "French Tip",
+      "url": "",
+      "price": 6,
+      "plus": false
+    },
+    {
+      "category": "Add-Ons",
+      "name": "Shiny Buff",
+      "url": "",
+      "price": 5,
+      "plus": false
+    },
+    {
+      "category": "Add-Ons",
+      "name": "Design",
+      "url": "",
+      "price": 3,
+      "plus": true
+    },
+    {
+      "category": "Add-Ons",
+      "name": "Nails Fix",
+      "url": "",
+      "price": 5,
+      "plus": true
+    },
+    {
+      "category": "Add-Ons",
+      "name": "Removal",
+      "url": "",
+      "price": 15,
+      "plus": false
+    },
+    {
+      "category": "Add-Ons",
+      "name": "Foreign Removal",
+      "url": "",
+      "price": 25,
+      "plus": false
+    },
+    {
+      "category": "Waxing",
+      "name": "Eyebrows",
+      "url": "",
+      "price": 12,
+      "plus": false
+    },
+    {
+      "category": "Waxing",
+      "name": "Chin",
+      "url": "",
+      "price": 12,
+      "plus": false
+    },
+    {
+      "category": "Waxing",
+      "name": "Lip",
+      "url": "",
+      "price": 10,
+      "plus": false
+    },
+    {
+      "category": "Waxing",
+      "name": "Full Face",
+      "url": "",
+      "price": 40,
+      "plus": false
+    },
+    {
+      "category": "Waxing",
+      "name": "Under Arms",
+      "url": "",
+      "price": 20,
+      "plus": false
+    },
+    {
+      "category": "Waxing",
+      "name": "Half Arms",
+      "url": "",
+      "price": 30,
+      "plus": false
+    },
+    {
+      "category": "Waxing",
+      "name": "Full Arms",
+      "url": "",
+      "price": 55,
+      "plus": false
+    },
+    {
+      "category": "Waxing",
+      "name": "Half Legs",
+      "url": "",
+      "price": 35,
+      "plus": false
+    },
+    {
+      "category": "Waxing",
+      "name": "Full Legs",
+      "url": "",
+      "price": 65,
+      "plus": false
+    }
+  ]
+}
